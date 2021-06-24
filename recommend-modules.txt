@@ -1,0 +1,5 @@
+PSReadLine
+GuiCompletion
+posh-git
+DockerCompletion
+Recycle
